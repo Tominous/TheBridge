@@ -45,8 +45,8 @@ Commands:
     Games-Played: "&aGames played: &e"
     Scored-Points: "&aScored points: &e"
     Level: "&aLevel: &e"
-    Exp: "&aExp: &e"
-    Next-Level-Exp: "&aExp to Level Up &e"
+    Exp: "&aEXP: &e"
+    Next-Level-Exp: "&aEXP to Level Up &e"
   Main-Command:
     Header: "&6----------------{TheBridge commands}----------"
     Description: "&aGame commands:\n
